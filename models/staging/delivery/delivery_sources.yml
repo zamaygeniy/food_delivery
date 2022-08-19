@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: YANDEX
+    database: YANDEX
+    schema: delivery
+    tables:
+      - name: `ORDERS`
