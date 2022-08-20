@@ -1,8 +1,8 @@
 version: 2
 
 sources:
-  - name: YANDEX
-    database: YANDEX
+  - name: yandex
+    database: yandex
     schema: delivery
     tables:
-      - name: `ORDERS`
+      - name: raw_delivery
